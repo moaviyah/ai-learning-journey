@@ -24,14 +24,6 @@ I am documenting my progress **day-by-day**, including:
 - What I built  
 - Reflections & improvements  
 
-This helps track growth over time and stay accountable.
-
-| Day | Date | What I Learned | Notes |
-|----|------|----------------|-------|
-| 1 | *31 October* | Day 0: Understanding basics of AI & ML | *published video on social media platforms about what AI actually is* |
-
-> I will keep updating this table every day.
-
 ---
 
 ## 🧠 Topics I Will Learn (Roadmap)
