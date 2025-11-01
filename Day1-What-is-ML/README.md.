@@ -1,0 +1,26 @@
+# Day 1 — What is Machine Learning (ML)
+
+**Date:** _add date here_
+
+---
+
+## 1) Short summary — What I learned today
+Machine Learning (ML) is the part of AI where machines **learn patterns from examples**.  
+Instead of coding every rule, we give the computer many examples (data) and it finds the pattern to make predictions or decisions.
+
+Key idea:
+- **We teach by example.**  
+- **Data → Learn → Predict.**
+
+---
+
+## 2) Mini practical: a tiny ML example (run locally)
+This is a **very small** Python example using `scikit-learn` to train a classifier on the Iris dataset and print accuracy. It’s meant to give immediate hands-on proof that ML works.
+
+### Setup (in your project venv)
+```bash
+# activate your venv first (windows)
+venv\Scripts\activate
+
+# install basics (if not already)
+pip install numpy pandas scikit-learn matplotlib
